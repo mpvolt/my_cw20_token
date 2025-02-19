@@ -1,4 +1,4 @@
-#Contract Address
+# Contract Address
 Token Contract Deployed at: osmo1zmk4cwkppnf6gw7e2ym844a2ps86ry4kxfytjc2d3c70jejmawasqlxd0x
 
 https://www.mintscan.io/osmosis-testnet/tx/0869913C8CEBD9650DD709C7E3F833F7E86D5FFA18F09EF3A35991EEBAB16B9A?height=23793492
